@@ -1443,6 +1443,7 @@ a:hover {
 # Footer
 --------------------------------------------------------------*/
 footer {
+  display: none;
   text-align: center;
   color: #fff;
   padding: 25px 0;
